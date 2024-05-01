@@ -20,5 +20,5 @@ jobs:
         password: ${{ secrets.PASSWORD }}
         server-dir: /test/  # AppEchoフォルダ内にアップロードする
         local-dir: |
-          src/*
-          index.php/
+          /src/
+          /index.php/
