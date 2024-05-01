@@ -21,4 +21,4 @@ jobs:
         server-dir: /test/  # AppEchoフォルダ内にアップロードする
         local-dir: |
           ./src/
-          ./index.php
+          ./index.php/
